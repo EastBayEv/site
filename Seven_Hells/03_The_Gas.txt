@@ -1,5 +1,5 @@
 Artist: OGRE
-Song: The Gas
+Song: 03_The Gas
 Album: Seven Hells (2006)
 Tuning: E Standard
 Key: F blues (?)

@@ -1,3 +1,10 @@
+Artist: OGRE
+Song: 08_The Hermit
+Album: The Last Neanderthal (2014)
+Tuning: E Standard
+Key: 
+Notes: 
+
 [0:04]
 
 e|--------------------------------------------------------------------------------|

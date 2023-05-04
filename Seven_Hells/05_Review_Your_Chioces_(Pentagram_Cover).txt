@@ -1,5 +1,5 @@
 Artist: OGRE
-Song: Review Your Choices (Pentagram Cover)
+Song: 05_Review Your Choices (Pentagram Cover)
 Album: Seven Hells (2006)
 Tuning: E Standard
 Key: A# melodic minor

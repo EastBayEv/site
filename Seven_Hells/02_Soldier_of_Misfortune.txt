@@ -1,5 +1,5 @@
 Artist: OGRE
-Song: Soldier of Misfortune
+Song: 02_Soldier of Misfortune
 Album: Seven Hells (2006)
 Tuning: E Standard
 Key: E major blues

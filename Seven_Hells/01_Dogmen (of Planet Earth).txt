@@ -1,5 +1,5 @@
 Artist: OGRE
-Song: Dogmen (of Planet Earth)
+Song: 01_Dogmen (of Planet Earth)
 Album: Seven Hells (2006)
 Tuning: E Standard
 Key: G natural minor

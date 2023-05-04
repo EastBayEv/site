@@ -1,5 +1,5 @@
 Artist: OGRE
-Song: Sperm Whale
+Song: 06_Sperm Whale
 Album: Seven Hells (2006)
 Year: 2006
 Tuning: E Standard

@@ -1,5 +1,5 @@
 Artist: OGRE
-Song: Nine Princes in Amber
+Song: 02_Nine Princes in Amber
 Album: The Last Neanderthanl (2014)
 Tuning: E Standard
 Key:
