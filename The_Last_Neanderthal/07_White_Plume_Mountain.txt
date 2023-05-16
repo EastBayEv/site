@@ -1,7 +1,7 @@
 Artist: OGRE
 Song: 07_White Plume Mountain
 Album: The Last Neanderthal (2014)
-Tuning: E Standard
+Tuning: E Standard (but the correct tuning is Open D tuning)
 Key: B (minor) blues
 Notes: Just one solo with some nice percussion and ambiance.
 
