@@ -1,5 +1,5 @@
 Artist: OGRE
-Song: King of the Wood
+Song: 06_King of the Wood
 Album: Thrice as Strong (2019)
 Tuning: Eb standard (half step down)
 Key:
