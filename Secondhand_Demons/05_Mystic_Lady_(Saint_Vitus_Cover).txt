@@ -1,5 +1,5 @@
 Artist: OGRE
-Song: Mystic Lady (Saint Vitus Cover)
+Song: 06_Mystic Lady (Saint Vitus Cover)
 Album: Secondhand Demons (2012)
 Tuning: E Standard
 Key: E blues
