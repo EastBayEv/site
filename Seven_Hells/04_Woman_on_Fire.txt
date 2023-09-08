@@ -2,7 +2,7 @@ Artist: OGRE
 Song: 04_Woman on Fire
 Album: Seven Hells (2006)
 Tuning: E standard
-Key: F / A Locrian
+Key: A minor blues
 
 [Verse - 0:00]
 
