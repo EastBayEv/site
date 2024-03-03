@@ -9,6 +9,8 @@ Notes:
 
 Sounds like a dub is playing over Guitar 1 starting on second repeat?
 
+TODO: move 6th string 5/7\5 up to 5th string 0h2p0
+
                * let ring
 eb|------------------------------------------------------|
 Bb|------------------------------------------------------|
