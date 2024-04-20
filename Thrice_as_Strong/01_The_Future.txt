@@ -2,7 +2,7 @@ Artist: OGRE
 Song: 01_The Future
 Album: Thrice as Strong (2019)
 Tuning: Eb standard (half step down)
-Key: D# minor
+Key: C# (C# D# F F# G# A# C)
 Notes: Perhaps an homage to Pagan Altar? <3
 
 ##############################################################################################################
