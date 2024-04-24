@@ -2,7 +2,7 @@ Artist: OGRE
 Song: 03_Big_Man
 Album: Thrice as Strong (2019)
 Tuning: Eb standard (half step down)
-Key: B minor blues
+Key: Bm blues (B C# D E F F# G A)
 Notes: Big man, big mouth, flappin' in the breeze...
 
 ##############################################################################################################
