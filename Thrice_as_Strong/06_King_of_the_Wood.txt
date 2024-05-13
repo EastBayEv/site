@@ -2,7 +2,7 @@ Artist: OGRE
 Song: 06_King of the Wood
 Album: Thrice as Strong (2019)
 Tuning: Eb standard (half step down)
-Key:  (C# D# F# G# A# . .)
+Key: F# pentatonic (F# G# A# C# D#)
 Notes: Windy out there... bad trip?
 
 [Verse - 0:01]
