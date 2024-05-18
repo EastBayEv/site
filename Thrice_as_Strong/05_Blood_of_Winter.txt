@@ -2,7 +2,7 @@ Artist: OGRE
 Song: 05_Blood of Winter
 Album: Thrice as Strong (2019)
 Tuning: Eb standard (half step down)
-Key:
+Key: Fm blues (F G G♯ A♯ B C C♯ D♯)
 Notes: A prequel to the "Age of Ice"? Ties with teh "Soldier of Misfortune"???
 
 [0:10 - Solo 1]
