@@ -1,4 +1,4 @@
-Artist: OGRE
+Artist: OGRE 
 Song: 07_Cyber-Czar
 Album: Thrice as Strong (2019)
 Tuning: Eb standard
