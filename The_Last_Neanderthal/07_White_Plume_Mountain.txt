@@ -1,13 +1,13 @@
 Artist: OGRE
 Song: 07_White Plume Mountain
 Album: The Last Neanderthal (2014)
-Tuning: This is an E Standard transcription; the song is actually in Open D tuning
+Tuning: Standard (song is actually in Open D tuning)
 Key: Bm blues (B C# D E F F# G A)
-Notes: A brief moment of sanity between the ruin of Warpath but before The Hermit's final haunt.
+Notes: A flicker of sanity following Warpath's ruin but before The Hermit's final haunt.
 
 [Solo 1 - 0:00]
 
-   * let ring with distorted feedback, appears and disappears here and there
+   * Distorted feedback rings out and appears and disappears here and there
 e|--------------------------------------------------------------|
 B|--------------------------------------------------------------|
 G|-----------7----9/11-------7-----7----------------------------|
