@@ -3,7 +3,7 @@ Song: 03_Bad Trip
 Album: The Last Neanderthal (2014)
 Tuning: E Standard
 Key: G major blues (G A A# B C C# D E F) C#
-Notes: Is the Dealer Man the King of the Wood?
+Notes: 
 
 [Verse - 0:02]
 
