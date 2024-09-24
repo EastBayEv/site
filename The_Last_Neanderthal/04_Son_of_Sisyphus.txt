@@ -3,11 +3,11 @@ Song: 04_Sone of Sisyphus
 Album: The Last Neanderthal (2014)
 Tuning: E Standard
 Key: E blues (E F# G G# A A# B C# D)
-Notes: The flip side to "78" and under the King of the Wood's heel? How'd I get here!?
+Notes: 
 
 [Intro - 0:01]
 
-Creepy chorus/delay organ-sounding thingy: 
+Wispy Optigan intro: https://en.wikipedia.org/wiki/Optigan
 
 e|--------------------------------------------------------|
 B|--------------------------------------------------------|
