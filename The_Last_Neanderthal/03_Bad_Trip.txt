@@ -2,7 +2,7 @@ Artist: OGRE
 Song: 03_Bad Trip
 Album: The Last Neanderthal (2014)
 Tuning: E Standard
-Key: G major blues (G A A# B C C# D E F) C#
+Key: G major blues (G A A# B C C# D E F)
 Notes: 
 
 [Verse - 0:02]
